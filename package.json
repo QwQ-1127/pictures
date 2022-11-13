@@ -1,0 +1,19 @@
+{
+  "name": "qwq1127-pictures",
+  "version": "1.0.0",
+  "description": "静态资源仓",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QwQ-1127/pictures.git"
+  },
+  "author": "QwQ-1127",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QwQ-1127/pictures/issues"
+  },
+  "homepage": "https://github.com/QwQ-1127/pictures#readme"
+}
